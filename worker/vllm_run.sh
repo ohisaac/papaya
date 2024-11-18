@@ -15,4 +15,4 @@ pip install vllm
 vllm serve Qwen/Qwen2-VL-2B-Instruct \
     --dtype auto \
     --api-key token-abc123 \
-    --port 8880
+    --port 8000

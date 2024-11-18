@@ -10,7 +10,7 @@ client = OpenAI(
     # base_url='https://api.runpod.ai/v2/vllm-smjtape8abgr4z/openai/v1',
     # base_url="https://6z21vdbzkz2aqx-8000.proxy.runpod.net/v1",
     # base_url="https://w7bqnxdqa6ilfd-8000.proxy.runpod.net/v1",
-    base_url="https://fzdlfltvyzatf8-8888.proxy.runpod.net/v1",
+    base_url="https://fzdlfltvyzatf8-8888.proxy.runpod.net/",
     # base_url="http://0.0.0.0:8000",
 )
 
