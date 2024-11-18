@@ -1,14 +1,14 @@
 # Core dependencies
-fastapi==0.104.1
-uvicorn==0.24.0
-httpx==0.25.1
-python-dotenv==1.0.0
+fastapi
+uvicorn
+httpx
+python-dotenv
 
 # OpenAI
-openai==1.3.0
+openai
 
 # Logging
-logging==0.5.1.2
+logging
 
 # CORS
-starlette==0.27.0
+starlette
